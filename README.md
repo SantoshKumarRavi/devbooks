@@ -1,11 +1,5 @@
 # Developer needed book list
 
-_বাংলা বইসমুহ_
-
-- **ডাটা সাইন্স**
-
-  - <a href="https://raw.githubusercontent.com/samayun/devbooks/master/a-beginners-guide-to-data-science.pdf" target="_blank"> এ বিগেইনার গাইড টু ডাটা সাইন্স</a>
-
 _English Books_
 
 - **NodeJS**
@@ -30,3 +24,8 @@ _English Books_
 * Miscellaneous 
 
   - <a href="https://raw.githubusercontent.com/samayun/devbooks/master/redis-microservices-fd.pdf" target="_blank"> Redis Microservices  </a>
+
+Discussions:
+
+https://www.reddit.com/r/SoftwareEngineering/comments/y3y97c/books_to_be_a_better_software_engineer/
+https://medium.com/@nathanbyers13/10-books-that-every-software-developer-must-read-in-2023-260f44c1498d
